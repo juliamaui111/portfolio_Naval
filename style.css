@@ -1,0 +1,53 @@
+body {
+    background-color: #FFFDF5;
+}
+
+.navbar {
+    background-color: #F9E7A8 !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #5C4A1F !important;
+}
+
+.nav-link:hover {
+    color: #8A6D2F !important;
+}
+
+#about {
+    background-color: #FFFDF5;
+}
+
+#skills {
+    background-color: #FFF4C2 !important;
+}
+
+#projects {
+    background-color: #FFFDF5;
+}
+
+#contact {
+    background-color: #FFF4C2;
+}
+
+footer {
+    background-color: #F9E7A8;
+    color: #5C4A1F;
+}
+
+.btn-primary {
+    background-color: #E8C85A;
+    border-color: #E8C85A;
+    color: #4A3B16;
+}
+
+.btn-primary:hover {
+    background-color: #DDBB45;
+    border-color: #DDBB45;
+}
+
+.badge {
+    background-color: #E8C85A !important;
+    color: #4A3B16 !important;
+}
